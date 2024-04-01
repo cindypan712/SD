@@ -1,0 +1,18 @@
+{
+     "krxl6t": {
+          "title": "For those of you comparing these protests to Boston 1773, take a look at these pictures and tell me how this is patriotic to you? That is The Capitol Building.",
+          "author": "laserfartt",
+          "flair": "Free Speech",
+          "time": "1609968352.0",
+          "selftext": "",
+          "url": "https://www.reddit.com/gallery/krxl6t"
+     },
+     "jpu2rx": {
+          "title": "AP Has called the election for Joe Biden",
+          "author": "Jibrish",
+          "flair": "Discord.gg/conservative",
+          "time": "1604767541.0",
+          "selftext": "",
+          "url": "https://apnews.com/article/Biden-Trump-US-election-2020-results-fd58df73aa677acb74fce2a69adb71f9"
+     }
+}

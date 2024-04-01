@@ -17,3 +17,5 @@ reddit = praw.Reddit(
 searcher = Searcher(reddit, 'Conservative')
 
 searcher.search()
+
+searcher.write_to()
