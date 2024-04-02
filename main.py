@@ -1,7 +1,7 @@
 import praw
 from searcher import Searcher
 
-user_info = open('user_info.txt', 'r')
+user_info = open('user_info.template.txt', 'r')
 lines = user_info.readlines()
 username = lines[0][:-1]
 password = lines[1]
