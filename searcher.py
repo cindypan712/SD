@@ -31,6 +31,7 @@ class Searcher:
             'flair': str(submission.author_flair_text),
             'time': str(submission.created_utc),
             'selftext': str(submission.selftext),
+            'score': str(submission.score),
             'url': str(submission.url)
         }
         self.submissions_dict[submission.id] = sub_info
