@@ -37,7 +37,6 @@ class Searcher:
         self.submissions_dict[submission.id] = sub_info
 
     
-    # in case we want to extract specific info 
     def add_comment_info(self, comment, submission_id):
         # comment: praw.models.Comment
         # submission_id: str 
@@ -57,7 +56,6 @@ class Searcher:
                                      'parent_submission': submission_id}
 
     
-    # check if we want to include this comment 
     def check_qualify(self, comment, threshold, flair_required=False):
         if len(comment.body.split()) < threshold:
             return False
