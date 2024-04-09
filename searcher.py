@@ -27,9 +27,10 @@ class Searcher:
             'title': str(submission.title),
             'author': str(submission.author),
             'flair': str(submission.author_flair_text),
-            'time': str(submission.created_utc),
+            'time': str(datetime.datetime.fromtimestamp(submission.created_utc)),
             'selftext': str(submission.selftext),
-            'url': str(submission.url)
+            'url': str(submission.url),
+            'score': str(submission.score)
         }
         self.submissions_dict[submission.id] = sub_info
     
@@ -68,7 +69,7 @@ class Searcher:
         # file_name: str
         # limit: int; upper bounded on number of posts iterated 
         # threshold: int; at least this many words need to be in a comment for it to be included 
-        self.top_posts = self.subreddit.top(limit=limit)
+        self.top_posts = self.subreddit.new(limit=limit)
         # dictionary of Submissions 
         # list of list of top comments??? 
         for p in self.top_posts:
