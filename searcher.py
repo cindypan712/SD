@@ -1,5 +1,7 @@
 import praw 
 import json
+import datetime
+
 
 class Searcher:
     def __init__(self, reddit, subreddit_name):
@@ -40,15 +42,16 @@ class Searcher:
         comment_info = {
             'id': str(comment.id),
             'author': str(comment.author),
+            'time': str(datetime.datetime.fromtimestamp(comment.created_utc)),
             'flair': str(comment.author_flair_text),
             'body': comment.body,
-            'time': str(comment.created_utc),
-            'score': str(comment.score),
-            # 'replies': comment.replies
+            'number of upvotes': str(comment.score),
+            'parent submission id': submission_id,
+            'number of top-level replies': len(comment.replies)
         }
         self.comments_dict[comment.id] = comment_info
         self.comments[comment.id] = {'body': comment.body,
-                                     'parent_submission': submission_id}
+                                     'parent submission id': submission_id}
 
     
     # check if we want to include this comment 
