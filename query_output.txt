@@ -1,0 +1,191 @@
+{
+   "data": {
+      "lend": {
+         "loans": {
+            "totalCount": 265,
+            "values": [
+               {
+                  "name": "Elizabeth",
+                  "loanAmount": "25000.00",
+                  "description": "My career in agriculture has been gradually building over the past decade. I initially came to farming because I wanted to work outdoors while remaining connected to my community. That very first season, I was hooked and went back to school to learn more about food systems, receiving my Masters in Sustainable Food & Farming from the University of Montana in 2015. I then launched a value-added produce business called Black Bear Soups, that has previously received and repaid a Kiva loan.\r\n\r\nYet, I struggled to access appropriate farmland for my farm dreams to be viable long-term. While owning and operating Black Bear Soups across several leased farm sites, I worked full-time in the nonprofit sustainability sector. I most recently was the Operations & Finance Director for the Community Food & Agriculture Coalition, who is now endorsing me for this Kiva loan. \r\n\r\nAbout two years ago, I had given up on the idea that I would ever farm full-time. Then, to great surprise, I was invited to work on transitioning a farm space from the retiring farmers who had previously managed it. The most exciting part, this project is attempting a new model for farmers like me to access land: a community land trust farm. I am the first lease holder of Montana\u2019s inaugural community land trust farm and as of two weeks ago, I became a full-time farmer.",
+                  "activity": {
+                     "name": "Agriculture"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 200
+                  },
+                  "trusteeName": "Community Food & Agriculture Coalition"
+               },
+               {
+                  "name": "Edinah",
+                  "loanAmount": "350.00",
+                  "description": "Meet Edinah, a resilient smallholder farmer from the vibrant fields of Keroka, Kenya. Married and deeply dedicated to her farm, Edinah has honed her skills over the years, cultivating not just crops but a sense of pride and sustainability.<br /><br />In the heart of her farm, where the soil tells stories of hard work and determination, Edinah envisions a brighter future. Her dream is simple yet profound: to nurture her land with the best tools nature and science can offer. With a loan for farm inputs like fertilizers, quality seeds, and essential chemicals, Edinah aims to amplify her harvests, ensuring bountiful yields that sustain her family and community.<br /><br />Edinah's commitment to her craft is a testament to her character and resilience. With each seed sown and crop tended, she paints a picture of perseverance and hope, embodying the spirit of a modern-day steward of the land.",
+                  "activity": {
+                     "name": "Farming"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 26
+                  },
+                  "partnerName": "Juhudi Kilimo"
+               },
+               {
+                  "name": "Christine",
+                  "loanAmount": "1100.00",
+                  "description": "Christine is a married woman who lives in the lush green valleys of Kericho.  She is dedicated to tending her small farm with unwavering passion.  Despite facing various challenges, Christine remains steadfast in her commitment to agricultural excellence.<br /><br />With a few years of farming experience, Christine understands the significance of adopting modern agricultural practices to enhance her productivity.  She recognizes the importance of investing in certified seeds and nutrient-rich fertilizers to improve the quality and quantity of her harvested crops.<br /><br />Christine's resilience and dedication make her a deserving candidate for financial assistance.  By providing her with a loan, Christine can access the resources needed to elevate her farming endeavors.  This investment not only benefits Christine and her family, but also contributes to the agricultural prosperity of Kericho and the surrounding areas.",
+                  "activity": {
+                     "name": "Farming"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "KE",
+                        "name": "Kenya"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 31
+                  },
+                  "partnerName": "Juhudi Kilimo"
+               },
+               {
+                  "name": "Amber",
+                  "loanAmount": "10000.00",
+                  "description": "My love of baking and coffee began at a very early age. Growing up in a rural Iowa farm community my mom spent much of her time in the kitchen baking and cooking for our family. One of my earliest memories is being in the kitchen with my mom every chance I could watching and learning how to bake. As I grew, I continued to learn about baking and was introduced to the joy of a hot cup of coffee alongside a freshly baked pastry. \n\nIt has been my dream for many years to own a coffee shop and bakery. I have worked in the food service industry for 30+ years and received a degree in Food Science from Iowa State University in 2009. My family and I moved to Coal Creek Canyon, Colorado seven years ago. In March of 2023, I had the opportunity to take over the existing coffee shop and make it my own. Over the past year, I have transformed Canyon Coffee into a bright, cheerful, welcoming space for the community to gather and enjoy a great cup of coffee and house-made pastry. I love my small mountain coffee shop and bakery and the opportunity it provides me to share my passion with my community.",
+                  "activity": {
+                     "name": "Food Production/Sales"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 86
+                  },
+                  "trusteeName": "No Trustee Endorsement"
+               },
+               {
+                  "name": "Kuli Kuli",
+                  "loanAmount": "300000.00",
+                  "description": "Almost half of the world\u2019s plant-derived calories come from just three foods: wheat, corn and rice, which do not work well in our changing climate. Creating supply chains based on nutrient-dense, climate-smart, edible plants represents an opportunity to improve human nutrition, the health of our planet, and benefit small farmers in developing countries.\n\nKuli Kuli is a woman-founded social enterprise serving a rapidly growing international market for climate-smart superfoods like moringa and baobab on behalf of small farmers. Kuli Kuli\u2019s sourcing is based on regenerative agriculture and boosts income for women in rural populations. Moringa is a drought-resistant tropical tree with leaves that contain high amounts of vitamins and minerals. Baobab is an African tree that can live for thousands of years and produces a large fruit rich in prebiotic fiber and antioxidants.\n\nTo date, Kuli Kuli has planted 33 million trees, generated $7 million in income for small farmers, and supported 4,121 livelihoods paying a higher price for a higher impact superfoods in Africa and Asia.\n\nThis is Kuli Kuli's fifth loan through the Kiva Social Enterprise program. They have successfully repaid three loans and are in the process of repaying their fourth loan.",
+                  "activity": {
+                     "name": "Agriculture"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 191
+                  },
+                  "partnerName": "N/A, direct to Kuli Kuli"
+               },
+               {
+                  "name": "Hua",
+                  "loanAmount": "7500.00",
+                  "description": "I grew up in a rural area of north east of China during late cultural revolution era and economic developing focus times. My dad, a leader of the local community, took risks to protect many high ranking scholars and urban youth despite status quo of then cultural revolution political control. I witnessed that doing good by independent thinking with good judgement would impact people's lives. \n\nWith that value/spirit seed in my heart, I kept on broadening my horizons: I started to live/work across China in my early 20's; immigrated to Canada in my 40's, and moved to Silicon Valley to pursue entrepreneur dream until now. Never look back.\n \nToday, I am a proud veteran of medical concierge industry for minority patients, and more proud of being a single mom who raised 2 bright young college children. \n\nMy passion for the future - establish non profit organization : inspire young girls to dream big, support minority single mom entrepreneurs. Dream big broaden your horizon, fearless motherhood is your asset to start a company. Go girl boss!",
+                  "activity": {
+                     "name": "Health"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 125
+                  },
+                  "trusteeName": "No Trustee Endorsement"
+               },
+               {
+                  "name": "Ana",
+                  "loanAmount": "10000.00",
+                  "description": "My name is Ana, and I hail from the Port of Veracruz. Approximately 18 years ago, I arrived at Madison, Wisconsin, seeking a brighter future. I came to this country alone, without knowing anyone, but I remained steadfast in my determination to work hard and forge ahead. My goal was clear: to create a better future, reunite with my daughters, and provide them with the best.\r\n\r\nSince I arrived in this country, I\u2019ve toiled tirelessly. I started my journey working at a Mexican restaurant, where the pay wasn\u2019t the best. However, my commitment, love, and eagerness to learn and grow kept me going. You see, my culinary dreams have always burned within me\u2014I\u2019ve longed to have my restaurant, where I could bring the flavors of Veracruz to every corner of Madison.\r\n\r\nThroughout this time, I\u2019ve worked in various capacities: cleaning companies, other Mexican restaurants, and fast-food establishments. Simultaneously, I cooked dishes from my home and sold them to neighbors and coworkers. Despite facing many limitations, I haven\u2019t been deterred. On the contrary, I\u2019ve pressed forward. This country has offered me countless opportunities, and I\u2019ve been fortunate to have the support of many individuals who\u2019ve helped me grow and chase my dreams. I am a fighter, and I simply don\u2019t give up!",
+                  "activity": {
+                     "name": "Food Production/Sales"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 183
+                  },
+                  "trusteeName": "Latino Chamber of Commerce of Dane County"
+               },
+               {
+                  "name": "America",
+                  "loanAmount": "3500.00",
+                  "description": "Our story begins when two young people, brought together by fate, meet in a restaurant in the city of Madison about twelve years ago. I, Am\u00e9rica Silva from Mexico City, and my now-husband Pablo Valencia from Puebla, remember that day vividly. I was vacationing in the United States, merely out for a family meal, when I serendipitously met Pablo, who was working at the restaurant. We talked that day, and from that moment on, we became great friends. We shared our dreams of owning a restaurant and event space for events and parties, so I decided to stay in the United States with Pablo, and we set our plans in motion.\n\nIt has been years since we first spoke about our dreams and began to cultivate the vision of a restaurant serving traditional Mexican cuisine. Our ambition was to preserve and showcase the rich culinary heritage of central and southern Mexico, and to bring a taste of Puebla, Oaxaca, and Mexico City to Wisconsin. My husband has honed his culinary skills since the age of 17 in the diverse kitchens of Madison's restaurants. Meanwhile, I have since graduated with a degree in Business Administration. We opened our first restaurant 4 years ago, but faced some complications, situations, and setbacks along our way, but they have not stopped us. We are determined to make our mark in the restaurant industry. We are constantly motivated by our children, Miranda and Emilio who give us the strength and energy.",
+                  "activity": {
+                     "name": "Food Production/Sales"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 71
+                  },
+                  "trusteeName": "Latino Chamber of Commerce of Dane County"
+               },
+               {
+                  "name": "Deborah",
+                  "loanAmount": "9000.00",
+                  "description": "My name is Deborah. I'm from the Democratic Republic of the Congo, and I immigrated to the United States in September 2014. I'm currently working as a Program Manager at a group home where we support adults with intellectual disability and autism. I oversee the management of the 9-group home. \r\n\r\nI'm the owner and creative director of Angels of Love event design. I have created gorgeous events all over Portland ME for over 5 years now. My passion for flowers and beautiful design is what inspires me to create the perfect setting for Angels of Love event design to be. AOLed has since grown into a full-service event design company.",
+                  "activity": {
+                     "name": "Services"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 320
+                  },
+                  "trusteeName": "Mona"
+               },
+               {
+                  "name": "Thuong",
+                  "loanAmount": "11500.00",
+                  "description": "I'm Thuong, the founder of Noodelist, and I'm not a regular Asian noodle entrepreneur. Being a Vietnamese-born Finn with Chinese roots is already a bit different but in addition to that, I'm also not a huge fan of rice or potatoes (and Finnish people really love their potatoes). So things can get a little tricky for an Asian person who doesn\u2019t eat rice. However, I've never been too concerned about that since I simply eat noodles for breakfast, lunch and dinner. Problem solved, right?\r\n\r\nIt\u2019s not quite that simple though \u2013 even the most dedicated noodle lovers don\u2019t always get to enjoy amazing noodles at restaurants three times a day. Sometimes you just need to go for the quick option: instant noodles. The big problem with that is the lack of nutrients and real authentic flavors. Although sometimes satisfying, a bag of regular instant noodles simply leaves you hungry and makes you think you should\u2019ve gone for a healthier option. But you still crave those delicious noodles ... So our mission at Noodelist is to introduce to the marketplace a premium plant-based version of instant noodles. We source noodles that are nutrient dense, texturally pleasing, and combine a bespoke soup base recipe that was created by award winning chef Petteri Luoto.\r\n\r\nWe wanted to create a flavorful and authentic experience that is not only good for you and great tasting; like you've spent hours in the kitchen, but is also good for the environment. That means no styrofoam cups for us! Our noodles are housed in environmentally conscious packaging. What more could you ask for? You'll find the only thing left on your plate is for you to share the oodles of love of our noodles. Be Happy and Noodle on!",
+                  "activity": {
+                     "name": "Food Production/Sales"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "US",
+                        "name": "United States"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 17
+                  },
+                  "trusteeName": "Mona"
+               }
+            ]
+         }
+      }
+   }
+}
