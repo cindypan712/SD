@@ -1,0 +1,182 @@
+{
+   "0": {
+      "name": "Pamela",
+      "loanAmount": "7500.00",
+      "description": "I'm originally from the Democratic Republic of Congo and moved to Burlington, Vermont in 2013. Prior to moving to the United States, I owned and ran my own clothing design business, Pam's Moda, with 3 employees in Kinshasa. My inspiration to start Pam's Moda, after graduating from college, came from my love of clothing design and in particular African works, color, and style. When I moved to Vermont, I noticed that very few people had the sewing ability to make clothes and that many Africans living in Vermont had cloth at home ready to be made into clothing. I started by sewing clothing for my friends and family in Vermont and gradually Pam's Moda was reborn. Today demand has grown, and I outsource some of the work to former colleagues in the DRC, where I continue to also source my fabric.",
+      "activity": {
+         "name": "Clothing"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 64
+      },
+      "trusteeName": "City of Burlington"
+   },
+   "1": {
+      "name": "Daisy",
+      "loanAmount": "700.00",
+      "description": "Daisy, a dedicated married woman in Mogogosiek, is a beacon of resilience in the farming community. With her years of experience tending to the land, Daisy understands the intricate dance of nature and agriculture. Despite facing challenges, Daisy remains steadfast in her commitment to her farm and family.<br /><br /><br /><br />Her desire for a loan is not just about procuring farm inputs like fertilizers, seeds, and chemicals; it's about investing in the future of her farm and securing a stable livelihood for her loved ones. Daisy's story is one of determination and hope, a testament to the hard work and perseverance of smallholder farmers who play a crucial role in feeding their communities. By supporting Daisy, funders are not just aiding a farmer, but empowering a community and fostering sustainable agricultural practices.",
+      "activity": {
+         "name": "Farming"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "KE",
+            "name": "Kenya"
+         }
+      },
+      "lenders": {
+         "totalCount": 31
+      },
+      "partnerName": "Juhudi Kilimo"
+   },
+   "2": {
+      "name": "Irene",
+      "loanAmount": "250.00",
+      "description": "Meet Irene, a 24-year-old farmer from Murang\u2019a. Irene is not just a wife to Edwin but also a proud mother, juggling the responsibilities of raising a family while passionately pursuing her farming dreams. Blessed with children whom they love and support, Irene's family is the epitome of unity and dedication.<br /><br />Irene's agricultural venture is her source of joy and livelihood. As a farmer, she finds fulfillment in good produce and contributing to the community. However, her main challenge lies in financing her farming endeavors, with modal finance posing a significant hurdle. The loan that Irene seeks will be utilized to purchase much-needed animal feed. The profits generated from this investment will not only address financial constraints but also contribute to the economic well-being of the community by providing quality produce.<br /><br />Irene's commitment to her community extends beyond her farm, as she proudly supports and empowers customers through her agricultural ventures. While this marks Irene's first engagement with an ECLOF Kenya loan, her hopes and dreams are anchored in becoming a successful businesswoman in the future. The loan, she believes, will play a pivotal role in realizing this vision and securing a brighter future for her family. To all those around the world supporting her journey, Irene expresses her heartfelt gratitude",
+      "activity": {
+         "name": "Dairy"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "KE",
+            "name": "Kenya"
+         }
+      },
+      "lenders": {
+         "totalCount": 7
+      },
+      "partnerName": "ECLOF Kenya"
+   },
+   "3": {
+      "name": "Lena",
+      "loanAmount": "475.00",
+      "description": "In the lush countryside of Kapcherop, Lena stands as a beacon of resilience and determination. Despite facing the challenges of singlehood, she has embraced her role as a smallholder farmer with unwavering dedication. Lena's journey in agriculture began with humble beginnings, but her passion for farming has only grown stronger with time.\n\nOver the years, Lena has accumulated valuable experience and knowledge in farm management, honing her skills to navigate the complexities of agriculture. Now, she aspires to elevate her farm's productivity by investing in modern farm inputs such as high-quality seeds and fertilizers. With these resources, Lena aims to bolster crop production on her farm and ultimately increase her profits.\n\nLena's unwavering commitment to her craft, coupled with her desire for self-improvement, makes her a deserving candidate for financial assistance. By supporting Lena's endeavor, not only will her farm thrive, but she will also serve as an inspiration to other aspiring farmers in the Kapcherop community.",
+      "activity": {
+         "name": "Farming"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "KE",
+            "name": "Kenya"
+         }
+      },
+      "lenders": {
+         "totalCount": 27
+      },
+      "partnerName": "Juhudi Kilimo"
+   },
+   "4": {
+      "name": "Kuli Kuli",
+      "loanAmount": "300000.00",
+      "description": "Almost half of the world\u2019s plant-derived calories come from just three foods: wheat, corn and rice, which do not work well in our changing climate. Creating supply chains based on nutrient-dense, climate-smart, edible plants represents an opportunity to improve human nutrition, the health of our planet, and benefit small farmers in developing countries.\n\nKuli Kuli is a woman-founded social enterprise serving a rapidly growing international market for climate-smart superfoods like moringa and baobab on behalf of small farmers. Kuli Kuli\u2019s sourcing is based on regenerative agriculture and boosts income for women in rural populations. Moringa is a drought-resistant tropical tree with leaves that contain high amounts of vitamins and minerals. Baobab is an African tree that can live for thousands of years and produces a large fruit rich in prebiotic fiber and antioxidants.\n\nTo date, Kuli Kuli has planted 33 million trees, generated $7 million in income for small farmers, and supported 4,121 livelihoods paying a higher price for a higher impact superfoods in Africa and Asia.\n\nThis is Kuli Kuli's fifth loan through the Kiva Social Enterprise program. They have successfully repaid three loans and are in the process of repaying their fourth loan.",
+      "activity": {
+         "name": "Agriculture"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 246
+      },
+      "partnerName": "N/A, direct to Kuli Kuli"
+   },
+   "5": {
+      "name": "Diamond",
+      "loanAmount": "6000.00",
+      "description": "My name is Diamond. My partner Verner and I are proud owners of Little Swans Family Learning Center. I grew up in Madison WI, class of 2016. I come from a large family of 19 siblings. I have always had the passion for caring for others around me. I assisted my father with my 6 younger siblings as he worked hard to maintain our household, so caring for children has always been a huge part of my life. \r\n\r\nVerner is from Chicago, IL. He is CPR and OSHA 10 certified. He has a diverse career path that ranges from Apprenticeship to Personal Care services. After graduating from Paul Mitchell Barbering Program, he decided to pursue his career as a Barber and offer grooming services for children and adults. While\r\nentering the childcare field, he decided to offer services for families that may not have the time to get to a Barbershop or salon. Teaching children the concept of having patience, learning self-care all while providing a safe space.\r\n\r\nWe have two beautiful girls, Valani (6y) and Valeyah (3y). They are our inspiration for founding Little Swan's in 2023. Both of our children have severe asthma and there were many days where we were going from daycare to urgent care due to their health instructions not being followed by daycare staff. We attempted many daycares in our area, and we kept running into many safety hazards and lack of care. As any concerned parents, we took the necessary steps to become early childhood educators so that we can teach our own children. With the love and care that we provide for our children, family and friends began reaching out for care and soon enough we were at our maximum in our in-home location.\r\n\r\nAfter many inquiries in the area and having to turn many families around due to capacity, we started thinking of our business in a long-term aspect. Expanding would be the next move to make so that we can assist more families in our community. We have recently purchased a location to open our daycare facility, becoming a Licensed Group Childcare Facility. We strive to be able to provide a safe environment for all, all while focusing on early learning development and helping more families in need.",
+      "activity": {
+         "name": "Child Care"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 53
+      },
+      "trusteeName": "City of Madison"
+   },
+   "6": {
+      "name": "Joena",
+      "loanAmount": "7500.00",
+      "description": "My passion for business started as a child.  I was raised in a family-owned business.  At the age of 12, I would go to work with my father and type out his invoices.  Of course, this was quite a few years ago, before any computers.  At 17, I was running the business when my father had his first heart attack. And that is when my management skills kicked in. I pursued an accounting degree and after marrying, I continued to work in the private sector as a Controller.  \n\nFor the past 20 years, I've been a Controller of country clubs and yacht clubs.  This gave me experience in the hospitality and food and beverage business.  Coming from an Italian family, I love to cook and eat.  I am a foodie.'\n\nI've always dreamed of having my type of business and food is a passion of mine.  Five years ago, my fiance and I began looking into a small sub shop.  As we continued to pursue it, more and more ideas were generated.  Our concept just grew into one that is not found here.  So I started to pursue my dream.\n\nThen, in July 2023, I came down with Guillain Barre Syndrome and was paralyzed from the waist down within 4 days.  After days hospitalized and seven weeks in in-patient rehab, I was able to go home, but only using a walker.  I have just begun to walk with a walking stick.  During this time, my restaurant is going through licensing issues with the build out and while hospitalized, my fiance had a stroke.  It has been a long road since it started over a year ago.  And as I get to the end of the build out, my funds are running very low.  Funds allocated to the build out were forced to be used for rents that were not anticipated, since our expected open date was to have been July 1st then moved to Sept 1st waiting for permits.  Needless to say,  my stress levels are up, but I have not let this put me down.  The rehab unit said I was a phenomenon as they did not expect me to even be able to walk with a walker when I left, let alone climb stairs, so I could return to my home.  \n\nThe funds I pursue are to purchase final small wares and supplies and have a cash flow for 2 months of payroll.",
+      "activity": {
+         "name": "Food Production/Sales"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 119
+      },
+      "trusteeName": "WWBIC"
+   },
+   "7": {
+      "name": "Essie",
+      "loanAmount": "7500.00",
+      "description": "I am an entrepreneur and business owner with a background in nutrition and passion for wellness. I am the founder and owner of Nutrish by NQ, a Cold-Pressed Juice and Smoothie Bar.\r\n\r\nI began studying to provide affordable and convenient wellness options to assist my own family consume the necessary recommended vitamins and minerals to maintain a healthy and balanced lifestyle. My longtime dream of owning my own business came true with Nutrish by NQ, established in July 2020, as a way to combine my two passions.\r\n\r\nI have a Bachelor\u2019s Degree in Business Management through the University of Phoenix and I have worked at the Department of Justice for over 15 years. I am also a certified Economic Disadvantage Woman-Owned Small Business with the U.S. Small Business Administration.\r\n\r\nIn addition to supporting the wellness of my community through my business, I am the proud mother of one child, who is currently attending the University of Oklahoma in Norman.",
+      "activity": {
+         "name": "Food Production/Sales"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 58
+      },
+      "trusteeName": "No Trustee Endorsement"
+   },
+   "8": {
+      "name": "Latoya",
+      "loanAmount": "5000.00",
+      "description": "I\u2019ve always wanted to have my own business but it was always coupled with fear. Fear of failure and that I wasn\u2019t capable of making it successful, but now I\u2019m on a journey growing closer to my African roots. Surprisingly it has given me confidence and hope.\r\n\r\nMy people have been through a lot and have survived, and many are thriving. I\u2019m proud to have that fight in my blood. It has taught me that if I come from greatness then greatness can come from me.",
+      "activity": {
+         "name": "Retail"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 98
+      },
+      "trusteeName": "WWBIC"
+   },
+   "9": {
+      "name": "Jeanelly",
+      "loanAmount": "4500.00",
+      "description": "I started caring for young children in 2012, working in a daycare center until 2024.  Being in the childcare field has opened my eyes to the need for and importance of being with a child with different backgrounds. I as a child, would have desired to be in a program where my needs were taken cared of as my mom had to go to work to provide for her 5 children. In 2012, I embarked on a journey to care for young children, dedicating my time and energy to a daycare center until 2024. \r\n\r\nThrough my work, I have come to realize the immense importance of providing equal opportunities to children, regardless of their diverse backgrounds.  Let's work together to ensure that every child is given the chance to thrive and succeed, no matter their circumstances.",
+      "activity": {
+         "name": "Child Care"
+      },
+      "geocode": {
+         "country": {
+            "isoCode": "US",
+            "name": "United States"
+         }
+      },
+      "lenders": {
+         "totalCount": 13
+      },
+      "trusteeName": "WWBIC"
+   }
+}
