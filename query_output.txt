@@ -2,80 +2,8 @@
    "data": {
       "lend": {
          "loans": {
-            "totalCount": 222,
+            "totalCount": 6109,
             "values": [
-               {
-                  "name": "Pamela",
-                  "loanAmount": "7500.00",
-                  "description": "I'm originally from the Democratic Republic of Congo and moved to Burlington, Vermont in 2013. Prior to moving to the United States, I owned and ran my own clothing design business, Pam's Moda, with 3 employees in Kinshasa. My inspiration to start Pam's Moda, after graduating from college, came from my love of clothing design and in particular African works, color, and style. When I moved to Vermont, I noticed that very few people had the sewing ability to make clothes and that many Africans living in Vermont had cloth at home ready to be made into clothing. I started by sewing clothing for my friends and family in Vermont and gradually Pam's Moda was reborn. Today demand has grown, and I outsource some of the work to former colleagues in the DRC, where I continue to also source my fabric.",
-                  "activity": {
-                     "name": "Clothing"
-                  },
-                  "geocode": {
-                     "country": {
-                        "isoCode": "US",
-                        "name": "United States"
-                     }
-                  },
-                  "lenders": {
-                     "totalCount": 64
-                  },
-                  "trusteeName": "City of Burlington"
-               },
-               {
-                  "name": "Daisy",
-                  "loanAmount": "700.00",
-                  "description": "Daisy, a dedicated married woman in Mogogosiek, is a beacon of resilience in the farming community. With her years of experience tending to the land, Daisy understands the intricate dance of nature and agriculture. Despite facing challenges, Daisy remains steadfast in her commitment to her farm and family.<br /><br /><br /><br />Her desire for a loan is not just about procuring farm inputs like fertilizers, seeds, and chemicals; it's about investing in the future of her farm and securing a stable livelihood for her loved ones. Daisy's story is one of determination and hope, a testament to the hard work and perseverance of smallholder farmers who play a crucial role in feeding their communities. By supporting Daisy, funders are not just aiding a farmer, but empowering a community and fostering sustainable agricultural practices.",
-                  "activity": {
-                     "name": "Farming"
-                  },
-                  "geocode": {
-                     "country": {
-                        "isoCode": "KE",
-                        "name": "Kenya"
-                     }
-                  },
-                  "lenders": {
-                     "totalCount": 31
-                  },
-                  "partnerName": "Juhudi Kilimo"
-               },
-               {
-                  "name": "Irene",
-                  "loanAmount": "250.00",
-                  "description": "Meet Irene, a 24-year-old farmer from Murang\u2019a. Irene is not just a wife to Edwin but also a proud mother, juggling the responsibilities of raising a family while passionately pursuing her farming dreams. Blessed with children whom they love and support, Irene's family is the epitome of unity and dedication.<br /><br />Irene's agricultural venture is her source of joy and livelihood. As a farmer, she finds fulfillment in good produce and contributing to the community. However, her main challenge lies in financing her farming endeavors, with modal finance posing a significant hurdle. The loan that Irene seeks will be utilized to purchase much-needed animal feed. The profits generated from this investment will not only address financial constraints but also contribute to the economic well-being of the community by providing quality produce.<br /><br />Irene's commitment to her community extends beyond her farm, as she proudly supports and empowers customers through her agricultural ventures. While this marks Irene's first engagement with an ECLOF Kenya loan, her hopes and dreams are anchored in becoming a successful businesswoman in the future. The loan, she believes, will play a pivotal role in realizing this vision and securing a brighter future for her family. To all those around the world supporting her journey, Irene expresses her heartfelt gratitude",
-                  "activity": {
-                     "name": "Dairy"
-                  },
-                  "geocode": {
-                     "country": {
-                        "isoCode": "KE",
-                        "name": "Kenya"
-                     }
-                  },
-                  "lenders": {
-                     "totalCount": 7
-                  },
-                  "partnerName": "ECLOF Kenya"
-               },
-               {
-                  "name": "Lena",
-                  "loanAmount": "475.00",
-                  "description": "In the lush countryside of Kapcherop, Lena stands as a beacon of resilience and determination. Despite facing the challenges of singlehood, she has embraced her role as a smallholder farmer with unwavering dedication. Lena's journey in agriculture began with humble beginnings, but her passion for farming has only grown stronger with time.\n\nOver the years, Lena has accumulated valuable experience and knowledge in farm management, honing her skills to navigate the complexities of agriculture. Now, she aspires to elevate her farm's productivity by investing in modern farm inputs such as high-quality seeds and fertilizers. With these resources, Lena aims to bolster crop production on her farm and ultimately increase her profits.\n\nLena's unwavering commitment to her craft, coupled with her desire for self-improvement, makes her a deserving candidate for financial assistance. By supporting Lena's endeavor, not only will her farm thrive, but she will also serve as an inspiration to other aspiring farmers in the Kapcherop community.",
-                  "activity": {
-                     "name": "Farming"
-                  },
-                  "geocode": {
-                     "country": {
-                        "isoCode": "KE",
-                        "name": "Kenya"
-                     }
-                  },
-                  "lenders": {
-                     "totalCount": 27
-                  },
-                  "partnerName": "Juhudi Kilimo"
-               },
                {
                   "name": "Kuli Kuli",
                   "loanAmount": "300000.00",
@@ -90,99 +18,171 @@
                      }
                   },
                   "lenders": {
-                     "totalCount": 246
+                     "totalCount": 249
                   },
                   "partnerName": "N/A, direct to Kuli Kuli"
                },
                {
-                  "name": "Diamond",
-                  "loanAmount": "6000.00",
-                  "description": "My name is Diamond. My partner Verner and I are proud owners of Little Swans Family Learning Center. I grew up in Madison WI, class of 2016. I come from a large family of 19 siblings. I have always had the passion for caring for others around me. I assisted my father with my 6 younger siblings as he worked hard to maintain our household, so caring for children has always been a huge part of my life. \r\n\r\nVerner is from Chicago, IL. He is CPR and OSHA 10 certified. He has a diverse career path that ranges from Apprenticeship to Personal Care services. After graduating from Paul Mitchell Barbering Program, he decided to pursue his career as a Barber and offer grooming services for children and adults. While\r\nentering the childcare field, he decided to offer services for families that may not have the time to get to a Barbershop or salon. Teaching children the concept of having patience, learning self-care all while providing a safe space.\r\n\r\nWe have two beautiful girls, Valani (6y) and Valeyah (3y). They are our inspiration for founding Little Swan's in 2023. Both of our children have severe asthma and there were many days where we were going from daycare to urgent care due to their health instructions not being followed by daycare staff. We attempted many daycares in our area, and we kept running into many safety hazards and lack of care. As any concerned parents, we took the necessary steps to become early childhood educators so that we can teach our own children. With the love and care that we provide for our children, family and friends began reaching out for care and soon enough we were at our maximum in our in-home location.\r\n\r\nAfter many inquiries in the area and having to turn many families around due to capacity, we started thinking of our business in a long-term aspect. Expanding would be the next move to make so that we can assist more families in our community. We have recently purchased a location to open our daycare facility, becoming a Licensed Group Childcare Facility. We strive to be able to provide a safe environment for all, all while focusing on early learning development and helping more families in need.",
+                  "name": "Kunduz",
+                  "loanAmount": "2575.00",
+                  "description": "This wonderful woman Kunduz is 42 years old, married, and has 2 children. She has a higher education. She is a kind and sympathetic woman. As the main income for her family, she works at the center for maternal and child health at the Ministry of Health of the Kyrgyz Republic and additionally engages in livestock farming for many years. On the property around her house she has all the conditions for keeping livestock. The region in which Kunduz lives is ideal for raising livestock. Kunduz and her husband try to give their children a comfortable life, a good education, and a better life. For this purpose, Kunduz applied to Bai-Tushum Bank for a loan of 230,000 KGS to connect the gas line, and part of the loan will be used to insulate the house. The loan will help improve her family's living conditions and arrange a comfortable life for her children, as well as save on electricity consumption by insulating the house.",
                   "activity": {
-                     "name": "Child Care"
+                     "name": "Personal Housing Expenses"
                   },
                   "geocode": {
                      "country": {
-                        "isoCode": "US",
-                        "name": "United States"
+                        "isoCode": "KG",
+                        "name": "Kyrgyzstan"
                      }
                   },
                   "lenders": {
-                     "totalCount": 53
+                     "totalCount": 17
                   },
-                  "trusteeName": "City of Madison"
+                  "partnerName": "Bai Tushum Bank"
                },
                {
-                  "name": "Joena",
-                  "loanAmount": "7500.00",
-                  "description": "My passion for business started as a child.  I was raised in a family-owned business.  At the age of 12, I would go to work with my father and type out his invoices.  Of course, this was quite a few years ago, before any computers.  At 17, I was running the business when my father had his first heart attack. And that is when my management skills kicked in. I pursued an accounting degree and after marrying, I continued to work in the private sector as a Controller.  \n\nFor the past 20 years, I've been a Controller of country clubs and yacht clubs.  This gave me experience in the hospitality and food and beverage business.  Coming from an Italian family, I love to cook and eat.  I am a foodie.'\n\nI've always dreamed of having my type of business and food is a passion of mine.  Five years ago, my fiance and I began looking into a small sub shop.  As we continued to pursue it, more and more ideas were generated.  Our concept just grew into one that is not found here.  So I started to pursue my dream.\n\nThen, in July 2023, I came down with Guillain Barre Syndrome and was paralyzed from the waist down within 4 days.  After days hospitalized and seven weeks in in-patient rehab, I was able to go home, but only using a walker.  I have just begun to walk with a walking stick.  During this time, my restaurant is going through licensing issues with the build out and while hospitalized, my fiance had a stroke.  It has been a long road since it started over a year ago.  And as I get to the end of the build out, my funds are running very low.  Funds allocated to the build out were forced to be used for rents that were not anticipated, since our expected open date was to have been July 1st then moved to Sept 1st waiting for permits.  Needless to say,  my stress levels are up, but I have not let this put me down.  The rehab unit said I was a phenomenon as they did not expect me to even be able to walk with a walker when I left, let alone climb stairs, so I could return to my home.  \n\nThe funds I pursue are to purchase final small wares and supplies and have a cash flow for 2 months of payroll.",
+                  "name": "Sol! Niger",
+                  "loanAmount": "50000.00",
+                  "description": "In collaboration with d.light design, SOL! Group, a committed company based in Niger, Chad and Central African Republic, is involved in making solar energy accessible to thousands of families living off-grid, at affordable prices. With already commercial operations from sales of solar kits to solar fields, SOL! Group provides sustainable solar solutions across the country. SOL! Niger strives to help provide reliable electricity with the goal of reaching one million citizens by 2035. \n\nAs a trusted partner of d.light, SOL! Group plays a crucial role in improving the lives of Nigeriens, as it is estimated that only 19% of Nigeriens have access to electricity, making Niger one of the countries with the lowest electrification rate in Sub Saharan Africa. \n\nThis loan will enable SOL! Niger to acquire 400 additional solar home systems for rural and off-grid areas of the country. Your support will help bring light to those who need it most.",
                   "activity": {
-                     "name": "Food Production/Sales"
+                     "name": "Energy"
                   },
                   "geocode": {
                      "country": {
-                        "isoCode": "US",
-                        "name": "United States"
+                        "isoCode": "NE",
+                        "name": "Niger"
                      }
                   },
                   "lenders": {
-                     "totalCount": 119
+                     "totalCount": 306
                   },
-                  "trusteeName": "WWBIC"
+                  "partnerName": "d.light design"
                },
                {
-                  "name": "Essie",
-                  "loanAmount": "7500.00",
-                  "description": "I am an entrepreneur and business owner with a background in nutrition and passion for wellness. I am the founder and owner of Nutrish by NQ, a Cold-Pressed Juice and Smoothie Bar.\r\n\r\nI began studying to provide affordable and convenient wellness options to assist my own family consume the necessary recommended vitamins and minerals to maintain a healthy and balanced lifestyle. My longtime dream of owning my own business came true with Nutrish by NQ, established in July 2020, as a way to combine my two passions.\r\n\r\nI have a Bachelor\u2019s Degree in Business Management through the University of Phoenix and I have worked at the Department of Justice for over 15 years. I am also a certified Economic Disadvantage Woman-Owned Small Business with the U.S. Small Business Administration.\r\n\r\nIn addition to supporting the wellness of my community through my business, I am the proud mother of one child, who is currently attending the University of Oklahoma in Norman.",
+                  "name": "Susana Jackeline",
+                  "loanAmount": "1225.00",
+                  "description": "Susana Jackeline is 50 years old. She is married and has three grown-up children. Her husband is a driver and they live in Manta, a beautiful place, where the locals are humble and hardworking people, who make a living from selling seafood.<br /><br />Susana is a modest women, who daily makes an honourable effort to earn a living in order to get ahead through her work. This is why she decided 20 years ago, to start up a business producing beautiful crochet pieces. <br /><br />She also sells clothing, which she goes out into the neighbourhood in her free time to sell. <br /><br />With the support she receives, Susana is motivated to carry on working and to move ahead with her business.<br /><br />She will invest the loan in the purchase of supplies for crocheting, blouses, dresses, pyjamas, underwear, trousers and other items.",
                   "activity": {
-                     "name": "Food Production/Sales"
+                     "name": "Clothing Sales"
                   },
                   "geocode": {
                      "country": {
-                        "isoCode": "US",
-                        "name": "United States"
+                        "isoCode": "EC",
+                        "name": "Ecuador"
                      }
                   },
                   "lenders": {
-                     "totalCount": 58
+                     "totalCount": 15
                   },
-                  "trusteeName": "No Trustee Endorsement"
+                  "partnerName": "Fundaci\u00f3n ESPOIR"
                },
                {
-                  "name": "Latoya",
-                  "loanAmount": "5000.00",
-                  "description": "I\u2019ve always wanted to have my own business but it was always coupled with fear. Fear of failure and that I wasn\u2019t capable of making it successful, but now I\u2019m on a journey growing closer to my African roots. Surprisingly it has given me confidence and hope.\r\n\r\nMy people have been through a lot and have survived, and many are thriving. I\u2019m proud to have that fight in my blood. It has taught me that if I come from greatness then greatness can come from me.",
+                  "name": "Mujeres Responsables Group",
+                  "loanAmount": "5475.00",
+                  "description": "This is a large group where all of the members helps each other in order to be able to better themselves and to get their families ahead.  They do this in order to be able to offer them a better future, and so that they do not experience deprivations.  They are also in the elimination of poverty program where they are all striving to get ahead and to improve themselves.<br /><br />Carolina is one of the members.  She devotes herself to selling fruits and vegetables.  She says that she makes her sales in an itinerant manner.  In spite of what she does being very demanding, it allows her to be able to help support her household and her family.  Carolina defines herself as a hardworking and tenacious person who looks for the way to be able to improve herself and to continue improving in order to be able to help support her loved ones.<br /><br />She is requesting this loan to buy varied products like fresh fruits and vegetables to sell.  With this she will be able to fill her customers' orders.<br /><br />Note:  The child in the photo is the son of one of the members of the group who is signing for this loan.",
+                  "activity": {
+                     "name": "Fruits & Vegetables"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 54
+                  },
+                  "partnerName": "Fundaci\u00f3n Paraguaya"
+               },
+               {
+                  "name": "Ku\u00f1a Katupyry Group",
+                  "loanAmount": "5725.00",
+                  "description": "This group was formed uniting friends and neighbors who are striving to get ahead together and be able to give their loved ones better living conditions, lacking for nothing and without hardships. They are participating in the Women's Committee program where they all want to excel and have a better future. <br /><br />Amongst them Angela Liliana stands out. She is the group president and an active women in her family and the group. She comments that she is looking for a way to be able to help her family and also the other group members. <br /><br />In order to be able to contribute to supporting her family she earns a living as a manicurist. She says she is very good at what she does. So she has a regular clientele who always ask for her. <br /><br />She is requesting this loan to buy materials for her work like nail polish, nail files, pliers, acetone and gel amongst other material so she can continue to provide her service.",
+                  "activity": {
+                     "name": "Services"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "PY",
+                        "name": "Paraguay"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 44
+                  },
+                  "partnerName": "Fundaci\u00f3n Paraguaya"
+               },
+               {
+                  "name": "Johanna Liseth",
+                  "loanAmount": "775.00",
+                  "description": "Johanna Liseth is 28 years old. She is in a common-law relationship and is pregnant with her first child. Her husband is a fisherman. They live in Manta. It is s lovely place with very humble, hard-working inhabitants who earn their living selling seafood. <br /><br />Johanna is a woman who likes to work each day in order to support her husband with the household expenses. So eight years ago she decided to earn a living selling sheets, clothing, cosmetics and shoes. In her free time she travels through the various areas offering her merchandise so her customers can acquire some product. The loans help her a lot as she can stock up with new merchandise. <br /><br />She will use this loan to buy sheets, clothing, cosmetics and shoes.",
                   "activity": {
                      "name": "Retail"
                   },
                   "geocode": {
                      "country": {
-                        "isoCode": "US",
-                        "name": "United States"
+                        "isoCode": "EC",
+                        "name": "Ecuador"
                      }
                   },
                   "lenders": {
-                     "totalCount": 98
+                     "totalCount": 23
                   },
-                  "trusteeName": "WWBIC"
+                  "partnerName": "Fundaci\u00f3n ESPOIR"
                },
                {
-                  "name": "Jeanelly",
-                  "loanAmount": "4500.00",
-                  "description": "I started caring for young children in 2012, working in a daycare center until 2024.  Being in the childcare field has opened my eyes to the need for and importance of being with a child with different backgrounds. I as a child, would have desired to be in a program where my needs were taken cared of as my mom had to go to work to provide for her 5 children. In 2012, I embarked on a journey to care for young children, dedicating my time and energy to a daycare center until 2024. \r\n\r\nThrough my work, I have come to realize the immense importance of providing equal opportunities to children, regardless of their diverse backgrounds.  Let's work together to ensure that every child is given the chance to thrive and succeed, no matter their circumstances.",
+                  "name": "Fabjola",
+                  "loanAmount": "550.00",
+                  "description": "Fabjola is a 19-years-old girl from Fier. She lives with her parents and her sister. To provide for herself and to help her parents with the family incomes, Fabjola works at a private company. <br /><br />She is satisfied with her job but recently has been having some health problems and this is preventing her from working. Fabjola needs to do physiotherapy to recover her health and be able to return to her work. As she cannot afford the payment, Fabjola is asking for the first time for your support.<br /><br />She is thankful for this possibility and wishes all the best to you and your loved ones.",
                   "activity": {
-                     "name": "Child Care"
+                     "name": "Personal Medical Expenses"
                   },
                   "geocode": {
                      "country": {
-                        "isoCode": "US",
-                        "name": "United States"
+                        "isoCode": "AL",
+                        "name": "Albania"
                      }
                   },
                   "lenders": {
-                     "totalCount": 13
+                     "totalCount": 6
                   },
-                  "trusteeName": "WWBIC"
+                  "partnerName": "Agro & Social Fund"
+               },
+               {
+                  "name": "Tuliya/Nguba Group",
+                  "loanAmount": "8950.00",
+                  "description": "Mrs Julienne is a Hekima MFI client and president of the \"TULIYA NGUBA\" village group. She is married, aged 44 and mother of 9 children, all of whom attend school. <br /><br />Her partner works in a private company, selling various items of clothing. She started this business 6 years ago with start-up funds received from her husband. She later involved the Hekima program to support her business, during which she gradually evolved. <br /><br />With this new loan, she will buy 25 dozen items of clothing, which will strengthen her initial capital. The challenge facing her business is the rising dollar rate. <br /><br />She would like her children to continue studying and for her to develop her business. Finally, she would like to thank Hekima and its partners for the support given to non-monetizable business owners in this global crisis linked to covid-19. The photo is only of the leader of the group because of covid-19 in respect of social distancing measures.",
+                  "activity": {
+                     "name": "Clothing Sales"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "CD",
+                        "name": "Congo (DRC)"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 115
+                  },
+                  "partnerName": "Hekima"
+               },
+               {
+                  "name": "Dieu Est Grand Ville Group",
+                  "loanAmount": "6100.00",
+                  "description": "Madam Faila is a client of Hekima microfinance institution and leads the \"Dieu Est Grand Ville\" Group. She is 53 years old and married with 3 children, all of whom attend school. Her spouse is a state employee.<br /><br />Madam Faila sells agricultural produce, a business she set up in 2012 with start-up funds provided by her husband. Later on, she joined the Hekima program to support her business, during which it has grown steadily. With this new loan, she is going to buy supplies of groundnuts and beans, which will increase her working capital. The challenge faced by her business is linked to market competition.<br /><br />Madam Faila would like her children to continue their studies and she also wants to develop her business. Finally, she wishes to thank Hekima and its partners for supporting owners of businesses lacking access to conventional banking facilities during the global crisis linked to Covid-19.<br /><br />The photo shows only the leader of the group because of Covid-19 and compliance with social distancing measures.",
+                  "activity": {
+                     "name": "Food"
+                  },
+                  "geocode": {
+                     "country": {
+                        "isoCode": "CD",
+                        "name": "Congo (DRC)"
+                     }
+                  },
+                  "lenders": {
+                     "totalCount": 189
+                  },
+                  "partnerName": "Hekima"
                }
             ]
          }

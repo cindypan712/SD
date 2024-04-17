@@ -1,6 +1,6 @@
 {
   lend {
-    loans (filters: {gender: female, country: ["KE", "US"]}, limit: 10) {
+    loans (limit: 10) {
       totalCount
       values {
         name
