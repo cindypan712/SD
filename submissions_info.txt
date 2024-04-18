@@ -1,20 +1,452 @@
 {
-     "1bzfp37": {
-          "title": "George Santayana: \u201cThose who do not remember the past are condemned to repeat it.\u201d",
-          "author": "Ask4MD",
-          "flair": "Conservative",
-          "time": "2024-04-08 21:27:55",
+     "krxl6t": {
+          "title": "For those of you comparing these protests to Boston 1773, take a look at these pictures and tell me how this is patriotic to you? That is The Capitol Building.",
+          "author": "laserfartt",
+          "flair": "Free Speech",
+          "time": "2021-01-06 16:25:52",
           "selftext": "",
-          "url": "https://i.redd.it/ljvkvdz8wctc1.jpeg",
-          "score": "4"
+          "url": "https://www.reddit.com/gallery/krxl6t",
+          "score": "111198"
      },
-     "1bzfdwh": {
-          "title": "Surge of Work Permit Applications Gives USCIS Excuse to Auto-Renew Them",
-          "author": "Anastasia_Morley",
-          "flair": "None",
-          "time": "2024-04-08 21:13:13",
+     "jpu2rx": {
+          "title": "AP Has called the election for Joe Biden",
+          "author": "Jibrish",
+          "flair": "Discord.gg/conservative",
+          "time": "2020-11-07 11:45:41",
           "selftext": "",
-          "url": "https://i.redd.it/qnwl7wqytctc1.jpeg",
-          "score": "18"
+          "url": "https://apnews.com/article/Biden-Trump-US-election-2020-results-fd58df73aa677acb74fce2a69adb71f9",
+          "score": "69161"
+     },
+     "kibtqm": {
+          "title": "I want my taxes back",
+          "author": "DarlenaPeugh",
+          "flair": "None",
+          "time": "2020-12-22 14:10:06",
+          "selftext": "",
+          "url": "https://imgur.com/WY5NwZR.jpg",
+          "score": "60352"
+     },
+     "147nnwy": {
+          "title": "Reminder: This picture is illegal in China, which has a 150$ million stake in reddit via Tencent",
+          "author": "Jibrish",
+          "flair": "Discord.gg/conservative",
+          "time": "2023-06-12 09:04:37",
+          "selftext": "",
+          "url": "https://i.redd.it/jzfjlsk75l5b1.png",
+          "score": "50631"
+     },
+     "kw2lq8": {
+          "title": "Fox News: McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts:",
+          "author": "juicesalinas",
+          "flair": "None",
+          "time": "2021-01-12 17:37:36",
+          "selftext": "",
+          "url": "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report",
+          "score": "49115"
+     },
+     "khf71d": {
+          "title": "AMAZING! Congress Got Paid Their Full Salary of $130K for 9 Months While they Argued About Giving Every American $600 of Their Own Money",
+          "author": "romark1965",
+          "flair": "Old School",
+          "time": "2020-12-21 06:00:14",
+          "selftext": "",
+          "url": "https://conservativechoicecampaign.com/amazing-congress-got-paid-their-full-salary-of-130k-for-9-months-while-they-argued-about-giving-every-american-600-of-their-own-money/",
+          "score": "46963"
+     },
+     "kwqbyu": {
+          "title": "House impeaches Trump for second time over Capitol riots",
+          "author": "79camaroZ28",
+          "flair": "Conservative",
+          "time": "2021-01-13 16:25:42",
+          "selftext": "",
+          "url": "http://www.breakingthenews.net/news/details/54323954",
+          "score": "45776"
+     },
+     "l74fvd": {
+          "title": "New SEC Rule: Wall Street Will Now Only Allow Traders Who Wear A Top Hat And Monocle And Carry Around Giant Bags Of Money",
+          "author": "TimbitGaming",
+          "flair": "None",
+          "time": "2021-01-28 13:23:57",
+          "selftext": "",
+          "url": "https://babylonbee.com/news/wall-street-bans-anyone-who-doesnt-wear-a-top-hat-and-carry-around-giant-bags-of-money",
+          "score": "44290"
+     },
+     "ux33k8": {
+          "title": "Can\u2019t argue with that logic",
+          "author": "Lord-Sprinkles",
+          "flair": "None",
+          "time": "2022-05-24 18:41:45",
+          "selftext": "",
+          "url": "https://i.redd.it/ouxqia215i191.jpg",
+          "score": "39523"
+     },
+     "kd8qaz": {
+          "title": "Electoral College Elects Biden As President",
+          "author": "PotatoUmaru",
+          "flair": "Biological Threat \ud83d\udc69 ",
+          "time": "2020-12-14 17:55:39",
+          "selftext": "",
+          "url": "https://www.washingtontimes.com/news/2020/dec/14/vermont-begins-electoral-college-voting-3-votes-bi/",
+          "score": "36708"
+     },
+     "l1fxyh": {
+          "title": "Republican Starting To Think Trump Might Not Pull Off A Last-Minute 4D Chess Move",
+          "author": "TimbitGaming",
+          "flair": "None",
+          "time": "2021-01-20 14:04:52",
+          "selftext": "",
+          "url": "https://babylonbee.com/news/republican-starting-to-think-trump-might-not-pull-off-a-last-minute-3d-chess-move",
+          "score": "36103"
+     },
+     "krwig1": {
+          "title": "Romney rips Trump over Capitol Hill mayhem: 'This is what the president has caused'",
+          "author": "Winterhold2000",
+          "flair": "Conservative",
+          "time": "2021-01-06 15:32:10",
+          "selftext": "",
+          "url": "https://www.washingtonexaminer.com/news/romney-rips-trump-over-capitol-hill-mayhem-this-is-what-the-president-has-caused",
+          "score": "34031"
+     },
+     "jfy6sd": {
+          "title": "Vote for who you want. Just don\u2019t push the hate",
+          "author": "Educational_Tonight7",
+          "flair": "Conservative",
+          "time": "2020-10-22 07:54:56",
+          "selftext": "",
+          "url": "https://i.redd.it/c03b384uxmu51.jpg",
+          "score": "33805"
+     },
+     "ly98ob": {
+          "title": "And he's not the only one...",
+          "author": "DraconianDebate",
+          "flair": "Conservative Patriarch",
+          "time": "2021-03-05 05:42:42",
+          "selftext": "",
+          "url": "https://i.redd.it/q507th72c0l61.png",
+          "score": "32519"
+     },
+     "hlo9os": {
+          "title": "Terry Crews articulates everything wrong with \u201cwoke culture\u201d & doesn\u2019t back down",
+          "author": "Wonder10x",
+          "flair": "Common Sense Conservative",
+          "time": "2020-07-05 11:18:09",
+          "selftext": "",
+          "url": "https://i.redd.it/tijj6shq22951.jpg",
+          "score": "31902"
+     },
+     "joqel2": {
+          "title": "Newly Forged Common Ground",
+          "author": "PlymouthSock",
+          "flair": "Meme Conservative",
+          "time": "2020-11-05 15:28:51",
+          "selftext": "",
+          "url": "https://i.redd.it/7qgzfh47ehx51.jpg",
+          "score": "31490"
+     },
+     "mcjv7r": {
+          "title": "M'kay?",
+          "author": "isnicetoassclowns",
+          "flair": "None",
+          "time": "2021-03-24 19:26:02",
+          "selftext": "",
+          "url": "https://i.redd.it/p36f1vkk82p61.jpg",
+          "score": "31368"
+     },
+     "kbe63z": {
+          "title": "SCOTUS rejects TX lawsuit",
+          "author": "None",
+          "flair": "None",
+          "time": "2020-12-11 18:41:28",
+          "selftext": "",
+          "url": "https://www.whio.com/news/trending/us-supreme-court-rejects-texas-lawsuit/SRSJR7OXAJHMLKSSXHOATQ3LKQ/",
+          "score": "31023"
+     },
+     "yqj1yj": {
+          "title": "Potential red wave turns into trickle in disappointing midterm elections for Republicans",
+          "author": "Proof_Responsibility",
+          "flair": "Basic Conservative",
+          "time": "2022-11-09 08:29:59",
+          "selftext": "",
+          "url": "https://www.foxnews.com/politics/potential-red-wave-turns-trickle-disappointing-midterm-elections-republicans",
+          "score": "30126"
+     },
+     "l19aok": {
+          "title": "Joe IMMEDIATELY rips up Trump's legacy: New President will STOP building border wall, order federal mask mandate, scrap 'Muslim' ban, rejoin climate accord and dissolve anti-woke 1776 Commission",
+          "author": "None",
+          "flair": "None",
+          "time": "2021-01-20 08:36:55",
+          "selftext": "",
+          "url": "https://www.dailymail.co.uk/news/article-9167281/Bidens-act-orders-pandemic-climate-immigration.html",
+          "score": "29792"
+     },
+     "kiif8x": {
+          "title": "BREAKING NEWS: Donald Trump threatens to VETO relief bill demanding Congress increase checks from $600 to $2,000 and ditch 'wasteful' spending",
+          "author": "None",
+          "flair": "None",
+          "time": "2020-12-22 19:53:55",
+          "selftext": "",
+          "url": "https://www.dailymail.co.uk/news/article-9081097/Donald-Trump-threatens-VETO-relief-bill-demanding-Congress-increase-checks-600-2-000.html",
+          "score": "29615"
+     },
+     "jowywn": {
+          "title": "saw this on r/memes and had to share lol",
+          "author": "Lando242",
+          "flair": "None",
+          "time": "2020-11-05 21:52:55",
+          "selftext": "",
+          "url": "https://i.redd.it/4aevk8pqajx51.jpg",
+          "score": "29306"
+     },
+     "uy57xv": {
+          "title": "Parents begged police for upward of 40 minutes to stop Texas school shooter: Report",
+          "author": "SaraACarter",
+          "flair": "Official Account",
+          "time": "2022-05-26 07:13:46",
+          "selftext": "",
+          "url": "https://www.washingtonexaminer.com/news/parents-begged-police-for-upwards-of-40-minutes-to-stop-texas-school-shooter-report",
+          "score": "27993"
+     },
+     "ky74a5": {
+          "title": "(found on r/wholesomememes)",
+          "author": "PelicanJesus",
+          "flair": "None",
+          "time": "2021-01-15 18:49:31",
+          "selftext": "",
+          "url": "https://i.redd.it/0vlwic1t2lb61.jpg",
+          "score": "25371"
+     },
+     "jp2e87": {
+          "title": "Biden takes lead in Georgia",
+          "author": "79camaroZ28",
+          "flair": "Conservative",
+          "time": "2020-11-06 04:48:56",
+          "selftext": "",
+          "url": "http://www.breakingthenews.net/news/details/53705089",
+          "score": "24750"
+     },
+     "jnxgm3": {
+          "title": "Genuinely, please help me understand",
+          "author": "Okvist",
+          "flair": "None",
+          "time": "2020-11-04 09:18:48",
+          "selftext": "I'm a democrat, and before last night I believed that with all the people coming out to vote who hadn't before, we would see Biden winning by a significant margin. To my surprise, obviously that didn't happen and a very significant portion of the country really believes in Trump apparently. I don't agree with any of his policies, and to put it lightly, I'm not a fan of his character. As a result of that, I genuinely don't understand what it is about him that compels someone to vote for him. \n\nBut, the thing that I'm most tired of is the massive bipartisan divide in this country that has caused so much hostility from both sides, and I think the first step to improving the situation is to make a real effort to understand each other. So, if some of you would take the time to help me understand why you believe in Trump, I would appreciate it. Thanks.\n\nEDIT: Wow, this got way more attention than I thought it would. I thought this would get two or three comments and vanish in new. Thank you all for answering, and thank you for your civility. I'm not really responding to comments because unfortunately I don't have time to have a meaningful conversation right now, but also I made this post with the intention to just listen to what you all have to say without me throwing any of my specific views into the mix. I'll try to read as many as I can, and I might respond to one or two later if I have time. \n\nThanks again",
+          "url": "https://www.reddit.com/r/Conservative/comments/jnxgm3/genuinely_please_help_me_understand/",
+          "score": "23894"
+     },
+     "jzta4e": {
+          "title": "Trump Administration To Start Transition Process For Biden",
+          "author": "Winterhold2000",
+          "flair": "Conservative",
+          "time": "2020-11-23 18:31:35",
+          "selftext": "",
+          "url": "https://www.dailywire.com/news/breaking-trump-administration-to-start-transition-process-for-biden",
+          "score": "23137"
+     },
+     "m17224": {
+          "title": "Oppression from the Villa",
+          "author": "DraconianDebate",
+          "flair": "Conservative Patriarch",
+          "time": "2021-03-09 09:05:13",
+          "selftext": "",
+          "url": "https://i.redd.it/jggny4kre0m61.png",
+          "score": "22404"
+     },
+     "i0ltok": {
+          "title": "Trump calls for delay to 2020 US election",
+          "author": "NoleFan723",
+          "flair": "Florida Conservative",
+          "time": "2020-07-30 09:14:02",
+          "selftext": "",
+          "url": "https://www.bbc.com/news/world-us-canada-53597975?SThisFB",
+          "score": "21729"
+     },
+     "jpc1xn": {
+          "title": "Still Counting...",
+          "author": "PlymouthSock",
+          "flair": "Meme Conservative",
+          "time": "2020-11-06 14:51:11",
+          "selftext": "",
+          "url": "https://i.redd.it/qfn1gw2ecox51.png",
+          "score": "21498"
+     },
+     "iqncit": {
+          "title": "Never Forget",
+          "author": "tehForce",
+          "flair": "Nobody's Alt But Mine",
+          "time": "2020-09-11 05:34:37",
+          "selftext": "",
+          "url": "https://i.redd.it/yb0pqi1enhm51.jpg",
+          "score": "21222"
+     },
+     "m5j4r8": {
+          "title": "It\u2019s Time For Americans To Refuse To Trade With Slaveholders -- Now that we know, beyond a doubt, of China's abhorrent treatment of the Uighurs we must reconsider our relations with the Slave Power rising in the East.",
+          "author": "guanaco55",
+          "flair": "Conservative",
+          "time": "2021-03-15 08:00:42",
+          "selftext": "",
+          "url": "https://thefederalist.com/2021/03/15/its-time-for-americans-to-refuse-to-trade-with-slaveholders/",
+          "score": "21121"
+     },
+     "xxe5wl": {
+          "title": "Biden pardoning all prior federal offenses of simple marijuana possession",
+          "author": "None",
+          "flair": "None",
+          "time": "2022-10-06 15:37:45",
+          "selftext": "",
+          "url": "https://www.foxnews.com/politics/biden-pardoning-all-prior-federal-offenses-simple-marijuana-possession",
+          "score": "20816"
+     },
+     "ktussd": {
+          "title": "After Being Kicked Off Social Media, Trump Forced To Go Door To Door And Shout 'RIGGED ELECTION!'",
+          "author": "TimbitGaming",
+          "flair": "None",
+          "time": "2021-01-09 12:11:57",
+          "selftext": "",
+          "url": "https://babylonbee.com/news/after-being-kicked-off-social-media-trump-forced-to-go-door-to-door-and-shout-rigged-election",
+          "score": "20605"
+     },
+     "jo8sy9": {
+          "title": "We need NV",
+          "author": "Matthew8_",
+          "flair": "Millennial Conservative",
+          "time": "2020-11-04 19:45:31",
+          "selftext": "",
+          "url": "https://i.redd.it/bi7dow36jbx51.jpg",
+          "score": "20366"
+     },
+     "l4yjn9": {
+          "title": "Sen. Cruz reintroduces amendment imposing term limits on members of Congress",
+          "author": "lurkin4days",
+          "flair": "Daily Wire",
+          "time": "2021-01-25 16:51:18",
+          "selftext": "",
+          "url": "https://www.cbs7.com/2021/01/25/sen-cruz-reintroduces-amendment-imposing-term-limits-on-members-of-congress/",
+          "score": "20335"
+     },
+     "s66on2": {
+          "title": "Happy Birthday to this American hero",
+          "author": "f1sh98",
+          "flair": "Beltway Republican",
+          "time": "2022-01-17 10:32:46",
+          "selftext": "",
+          "url": "https://i.imgur.com/J7D2yW9.jpg",
+          "score": "19996"
+     },
+     "ksmly8": {
+          "title": "Capitol rioters could face up to 10 years in prison under Trump monument executive order",
+          "author": "HugoBe",
+          "flair": "None",
+          "time": "2021-01-07 15:58:55",
+          "selftext": "",
+          "url": "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal",
+          "score": "19950"
+     },
+     "5iugd6": {
+          "title": "So let me get this straight...",
+          "author": "Clatsop",
+          "flair": "I voted for Ronald Reagan  \u2611\ufe0f",
+          "time": "2016-12-17 08:27:38",
+          "selftext": "",
+          "url": "http://i.imgur.com/L0p4pQA.jpg",
+          "score": "19584"
+     },
+     "l0oqpj": {
+          "title": "McConnell says Trump provoked Jan. 6 riot",
+          "author": "79camaroZ28",
+          "flair": "Conservative",
+          "time": "2021-01-19 12:36:25",
+          "selftext": "",
+          "url": "http://www.breakingthenews.net/news/details/54371888",
+          "score": "19369"
+     },
+     "j106fp": {
+          "title": "NY Times: Trump paid $750 in US income taxes in 2016, 2017",
+          "author": "pookamatic",
+          "flair": "None",
+          "time": "2020-09-27 18:24:03",
+          "selftext": "",
+          "url": "https://apnews.com/f0e2af5f9f99de9d30dc6b9097121188",
+          "score": "19095"
+     },
+     "frxodq": {
+          "title": "RESUBMITTED: Behold: reddit after they received $300 million from China's company, Tencent",
+          "author": "SwampMidget",
+          "flair": "Milton Friedman Disciple",
+          "time": "2020-03-30 15:42:07",
+          "selftext": "",
+          "url": "https://i.redd.it/hs8iq6955vp41.jpg",
+          "score": "19003"
+     },
+     "ivh84e": {
+          "title": "Justice Ruth Bader Ginsburg, Champion Of Gender Equality, Dies At 87",
+          "author": "psstein",
+          "flair": "",
+          "time": "2020-09-18 19:34:22",
+          "selftext": "",
+          "url": "https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87",
+          "score": "18521"
+     },
+     "ixnlcy": {
+          "title": "Bloomberg pays fines for 32,000 felons in Florida so they can vote",
+          "author": "tenshon",
+          "flair": "Conservative Christian",
+          "time": "2020-09-22 09:40:53",
+          "selftext": "",
+          "url": "https://thehill.com/homenews/campaign/517522-bloomberg-pays-fines-for-32000-felons-in-florida-so-they-can-vote",
+          "score": "18447"
+     },
+     "kq7ocp": {
+          "title": "Biden's inaugural parade is canceled and replaced with a virtual version to avoid drawing large crowds amid the pandemic",
+          "author": "None",
+          "flair": "None",
+          "time": "2021-01-04 07:20:12",
+          "selftext": "",
+          "url": "https://www.dailymail.co.uk/news/article-9109493/Biden-inauguration-feature-virtual-nationwide-parade.html",
+          "score": "18416"
+     },
+     "l7g5ei": {
+          "title": "Somethings we can agree on",
+          "author": "masterdistraction",
+          "flair": "None",
+          "time": "2021-01-28 21:09:28",
+          "selftext": "",
+          "url": "https://www.reddit.com/gallery/l7g5ei",
+          "score": "18255"
+     },
+     "ytpc1n": {
+          "title": "Nevada Sen. Cortez Masto keeps critical seat, defeating GOP challenger Adam Laxalt",
+          "author": "None",
+          "flair": "None",
+          "time": "2022-11-12 21:22:49",
+          "selftext": "",
+          "url": "https://mynews4.com/news/election/nevada-senator-catherine-cortez-masto-keeps-critical-seat-defeating-gop-challenger-adam-laxalt-election-las-veags-reno-election",
+          "score": "18223"
+     },
+     "klvu04": {
+          "title": "Rep. Ilhan Omar Backs Trump\u2019s Call for \u2018Clean Bill\u2019 with Nothing But \u2018$2,000 Survival Checks\u2019",
+          "author": "guanaco55",
+          "flair": "Conservative",
+          "time": "2020-12-28 13:23:48",
+          "selftext": "",
+          "url": "https://www.cnsnews.com/index.php/blog/craig-bannister/rep-ilhan-omar-backs-trumps-call-clean-bill-nothing-2000-survival-checks",
+          "score": "17952"
+     },
+     "yr5kjd": {
+          "title": "Exit Poll: Generation Z, Millennials Break Big for Democrats (63% vs. 35% for Republicans)",
+          "author": "Vibranium2222",
+          "flair": "Conservative Libertarian",
+          "time": "2022-11-09 23:45:24",
+          "selftext": "",
+          "url": "https://www.breitbart.com/midterm-election/2022/11/09/exit-poll-generation-z-millennials-break-big-for-democrats/",
+          "score": "17734"
+     },
+     "jp5m62": {
+          "title": "Biden takes in lead in Pennsylvania",
+          "author": "HappyZombies",
+          "flair": "None",
+          "time": "2020-11-06 09:04:09",
+          "selftext": "",
+          "url": "https://www.breakingthenews.net/Article/Biden-overtakes-lead-in-Pennsylvania-vote-count/53708104",
+          "score": "17214"
      }
 }
