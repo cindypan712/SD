@@ -11,6 +11,7 @@ class Searcher:
         self.submissions_dict = {}
         self.comments_dict = {}
         self.comments = {}
+        self.comments_json = []
 
     
     # helper function to write readable lines 
@@ -45,7 +46,7 @@ class Searcher:
             'author': str(comment.author),
             'time': str(datetime.datetime.fromtimestamp(comment.created_utc)),
             'flair': str(comment.author_flair_text),
-            'body': comment.body,
+            'body': str(comment.body),
             'number of upvotes': str(comment.score),
             'parent submission id': submission_id,
             'number of top-level replies': len(comment.replies)
@@ -53,6 +54,7 @@ class Searcher:
         self.comments_dict[comment.id] = comment_info
         self.comments[comment.id] = {'body': comment.body,
                                      'parent submission id': submission_id}
+        self.comments_json.append(comment_info)
 
     
     # check if we want to include this comment 
@@ -63,13 +65,12 @@ class Searcher:
             if comment.author_flair_text is None:
                 return False
         return True 
-        
 
-    def search(self, limit=2, threshold=50):
+    def search(self, limit=50, threshold=50):
         # file_name: str
         # limit: int; upper bounded on number of posts iterated 
         # threshold: int; at least this many words need to be in a comment for it to be included 
-        self.top_posts = self.subreddit.new(limit=limit)
+        self.top_posts = self.subreddit.top(limit=limit)
         # dictionary of Submissions 
         # list of list of top comments??? 
         for p in self.top_posts:
@@ -83,13 +84,17 @@ class Searcher:
                     continue 
                 self.add_comment_info(comment, str(p.id))
     
-    def write_to(self, filename_c='comments.txt', filename_ci='comments_info.txt', filename_si='submissions_info.txt'):
+    def write_to(self, filename_c='comments.txt', filename_ci='comments_info.txt', filename_si='submissions_info.txt', filename_json='comments_json'):
         f_comments = open(filename_c, 'w')
-        json_comments = json.dumps(self.comments, indent=5)
-        chunks = self.split_into_chunks(json_comments)
-        for chunk in chunks:
-            f_comments.write(chunk + '\n')
+        # json_comments = json.dumps(self.comments, indent=5)
+        # chunks = self.split_into_chunks(json_comments)
+        # for chunk in chunks:
+        #     f_comments.write(chunk + '\n')
+        json.dump(self.comments, f_comments, indent=5)
         f_comments.close()
+        f_comments_json = open(filename_json, 'w')
+        json.dump(self.comments_json, f_comments_json, indent=5)
+        f_comments_json.close()
         f_comment_info = open(filename_ci, 'w')
         json.dump(self.comments_dict, f_comment_info, indent=5)
         f_comment_info.close()

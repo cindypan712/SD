@@ -6,7 +6,7 @@
           "time": "2021-01-06 16:25:52",
           "selftext": "",
           "url": "https://www.reddit.com/gallery/krxl6t",
-          "score": "111198"
+          "score": "111191"
      },
      "jpu2rx": {
           "title": "AP Has called the election for Joe Biden",
@@ -15,7 +15,7 @@
           "time": "2020-11-07 11:45:41",
           "selftext": "",
           "url": "https://apnews.com/article/Biden-Trump-US-election-2020-results-fd58df73aa677acb74fce2a69adb71f9",
-          "score": "69161"
+          "score": "69158"
      },
      "kibtqm": {
           "title": "I want my taxes back",
@@ -24,7 +24,7 @@
           "time": "2020-12-22 14:10:06",
           "selftext": "",
           "url": "https://imgur.com/WY5NwZR.jpg",
-          "score": "60352"
+          "score": "60351"
      },
      "147nnwy": {
           "title": "Reminder: This picture is illegal in China, which has a 150$ million stake in reddit via Tencent",
@@ -33,7 +33,7 @@
           "time": "2023-06-12 09:04:37",
           "selftext": "",
           "url": "https://i.redd.it/jzfjlsk75l5b1.png",
-          "score": "50631"
+          "score": "50628"
      },
      "kw2lq8": {
           "title": "Fox News: McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts:",
@@ -42,7 +42,7 @@
           "time": "2021-01-12 17:37:36",
           "selftext": "",
           "url": "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report",
-          "score": "49115"
+          "score": "49121"
      },
      "khf71d": {
           "title": "AMAZING! Congress Got Paid Their Full Salary of $130K for 9 Months While they Argued About Giving Every American $600 of Their Own Money",
@@ -51,7 +51,7 @@
           "time": "2020-12-21 06:00:14",
           "selftext": "",
           "url": "https://conservativechoicecampaign.com/amazing-congress-got-paid-their-full-salary-of-130k-for-9-months-while-they-argued-about-giving-every-american-600-of-their-own-money/",
-          "score": "46963"
+          "score": "46957"
      },
      "kwqbyu": {
           "title": "House impeaches Trump for second time over Capitol riots",
@@ -60,7 +60,7 @@
           "time": "2021-01-13 16:25:42",
           "selftext": "",
           "url": "http://www.breakingthenews.net/news/details/54323954",
-          "score": "45776"
+          "score": "45770"
      },
      "l74fvd": {
           "title": "New SEC Rule: Wall Street Will Now Only Allow Traders Who Wear A Top Hat And Monocle And Carry Around Giant Bags Of Money",
@@ -78,7 +78,7 @@
           "time": "2022-05-24 18:41:45",
           "selftext": "",
           "url": "https://i.redd.it/ouxqia215i191.jpg",
-          "score": "39523"
+          "score": "39526"
      },
      "kd8qaz": {
           "title": "Electoral College Elects Biden As President",
@@ -87,7 +87,7 @@
           "time": "2020-12-14 17:55:39",
           "selftext": "",
           "url": "https://www.washingtontimes.com/news/2020/dec/14/vermont-begins-electoral-college-voting-3-votes-bi/",
-          "score": "36708"
+          "score": "36715"
      },
      "l1fxyh": {
           "title": "Republican Starting To Think Trump Might Not Pull Off A Last-Minute 4D Chess Move",
@@ -96,7 +96,7 @@
           "time": "2021-01-20 14:04:52",
           "selftext": "",
           "url": "https://babylonbee.com/news/republican-starting-to-think-trump-might-not-pull-off-a-last-minute-3d-chess-move",
-          "score": "36103"
+          "score": "36106"
      },
      "krwig1": {
           "title": "Romney rips Trump over Capitol Hill mayhem: 'This is what the president has caused'",
@@ -105,7 +105,7 @@
           "time": "2021-01-06 15:32:10",
           "selftext": "",
           "url": "https://www.washingtonexaminer.com/news/romney-rips-trump-over-capitol-hill-mayhem-this-is-what-the-president-has-caused",
-          "score": "34031"
+          "score": "34032"
      },
      "jfy6sd": {
           "title": "Vote for who you want. Just don\u2019t push the hate",
@@ -114,7 +114,7 @@
           "time": "2020-10-22 07:54:56",
           "selftext": "",
           "url": "https://i.redd.it/c03b384uxmu51.jpg",
-          "score": "33805"
+          "score": "33799"
      },
      "ly98ob": {
           "title": "And he's not the only one...",
@@ -123,7 +123,7 @@
           "time": "2021-03-05 05:42:42",
           "selftext": "",
           "url": "https://i.redd.it/q507th72c0l61.png",
-          "score": "32519"
+          "score": "32524"
      },
      "hlo9os": {
           "title": "Terry Crews articulates everything wrong with \u201cwoke culture\u201d & doesn\u2019t back down",
@@ -132,7 +132,7 @@
           "time": "2020-07-05 11:18:09",
           "selftext": "",
           "url": "https://i.redd.it/tijj6shq22951.jpg",
-          "score": "31902"
+          "score": "31897"
      },
      "joqel2": {
           "title": "Newly Forged Common Ground",
@@ -141,7 +141,7 @@
           "time": "2020-11-05 15:28:51",
           "selftext": "",
           "url": "https://i.redd.it/7qgzfh47ehx51.jpg",
-          "score": "31490"
+          "score": "31487"
      },
      "mcjv7r": {
           "title": "M'kay?",
@@ -150,7 +150,7 @@
           "time": "2021-03-24 19:26:02",
           "selftext": "",
           "url": "https://i.redd.it/p36f1vkk82p61.jpg",
-          "score": "31368"
+          "score": "31359"
      },
      "kbe63z": {
           "title": "SCOTUS rejects TX lawsuit",
@@ -159,7 +159,7 @@
           "time": "2020-12-11 18:41:28",
           "selftext": "",
           "url": "https://www.whio.com/news/trending/us-supreme-court-rejects-texas-lawsuit/SRSJR7OXAJHMLKSSXHOATQ3LKQ/",
-          "score": "31023"
+          "score": "31025"
      },
      "yqj1yj": {
           "title": "Potential red wave turns into trickle in disappointing midterm elections for Republicans",
@@ -168,7 +168,7 @@
           "time": "2022-11-09 08:29:59",
           "selftext": "",
           "url": "https://www.foxnews.com/politics/potential-red-wave-turns-trickle-disappointing-midterm-elections-republicans",
-          "score": "30126"
+          "score": "30125"
      },
      "l19aok": {
           "title": "Joe IMMEDIATELY rips up Trump's legacy: New President will STOP building border wall, order federal mask mandate, scrap 'Muslim' ban, rejoin climate accord and dissolve anti-woke 1776 Commission",
@@ -177,7 +177,7 @@
           "time": "2021-01-20 08:36:55",
           "selftext": "",
           "url": "https://www.dailymail.co.uk/news/article-9167281/Bidens-act-orders-pandemic-climate-immigration.html",
-          "score": "29792"
+          "score": "29781"
      },
      "kiif8x": {
           "title": "BREAKING NEWS: Donald Trump threatens to VETO relief bill demanding Congress increase checks from $600 to $2,000 and ditch 'wasteful' spending",
@@ -186,7 +186,7 @@
           "time": "2020-12-22 19:53:55",
           "selftext": "",
           "url": "https://www.dailymail.co.uk/news/article-9081097/Donald-Trump-threatens-VETO-relief-bill-demanding-Congress-increase-checks-600-2-000.html",
-          "score": "29615"
+          "score": "29616"
      },
      "jowywn": {
           "title": "saw this on r/memes and had to share lol",
@@ -195,7 +195,7 @@
           "time": "2020-11-05 21:52:55",
           "selftext": "",
           "url": "https://i.redd.it/4aevk8pqajx51.jpg",
-          "score": "29306"
+          "score": "29302"
      },
      "uy57xv": {
           "title": "Parents begged police for upward of 40 minutes to stop Texas school shooter: Report",
@@ -213,7 +213,7 @@
           "time": "2021-01-15 18:49:31",
           "selftext": "",
           "url": "https://i.redd.it/0vlwic1t2lb61.jpg",
-          "score": "25371"
+          "score": "25373"
      },
      "jp2e87": {
           "title": "Biden takes lead in Georgia",
@@ -222,7 +222,7 @@
           "time": "2020-11-06 04:48:56",
           "selftext": "",
           "url": "http://www.breakingthenews.net/news/details/53705089",
-          "score": "24750"
+          "score": "24749"
      },
      "jnxgm3": {
           "title": "Genuinely, please help me understand",
@@ -231,7 +231,7 @@
           "time": "2020-11-04 09:18:48",
           "selftext": "I'm a democrat, and before last night I believed that with all the people coming out to vote who hadn't before, we would see Biden winning by a significant margin. To my surprise, obviously that didn't happen and a very significant portion of the country really believes in Trump apparently. I don't agree with any of his policies, and to put it lightly, I'm not a fan of his character. As a result of that, I genuinely don't understand what it is about him that compels someone to vote for him. \n\nBut, the thing that I'm most tired of is the massive bipartisan divide in this country that has caused so much hostility from both sides, and I think the first step to improving the situation is to make a real effort to understand each other. So, if some of you would take the time to help me understand why you believe in Trump, I would appreciate it. Thanks.\n\nEDIT: Wow, this got way more attention than I thought it would. I thought this would get two or three comments and vanish in new. Thank you all for answering, and thank you for your civility. I'm not really responding to comments because unfortunately I don't have time to have a meaningful conversation right now, but also I made this post with the intention to just listen to what you all have to say without me throwing any of my specific views into the mix. I'll try to read as many as I can, and I might respond to one or two later if I have time. \n\nThanks again",
           "url": "https://www.reddit.com/r/Conservative/comments/jnxgm3/genuinely_please_help_me_understand/",
-          "score": "23894"
+          "score": "23895"
      },
      "jzta4e": {
           "title": "Trump Administration To Start Transition Process For Biden",
@@ -240,7 +240,7 @@
           "time": "2020-11-23 18:31:35",
           "selftext": "",
           "url": "https://www.dailywire.com/news/breaking-trump-administration-to-start-transition-process-for-biden",
-          "score": "23137"
+          "score": "23134"
      },
      "m17224": {
           "title": "Oppression from the Villa",
@@ -249,7 +249,7 @@
           "time": "2021-03-09 09:05:13",
           "selftext": "",
           "url": "https://i.redd.it/jggny4kre0m61.png",
-          "score": "22404"
+          "score": "22414"
      },
      "i0ltok": {
           "title": "Trump calls for delay to 2020 US election",
@@ -258,7 +258,7 @@
           "time": "2020-07-30 09:14:02",
           "selftext": "",
           "url": "https://www.bbc.com/news/world-us-canada-53597975?SThisFB",
-          "score": "21729"
+          "score": "21730"
      },
      "jpc1xn": {
           "title": "Still Counting...",
@@ -267,7 +267,7 @@
           "time": "2020-11-06 14:51:11",
           "selftext": "",
           "url": "https://i.redd.it/qfn1gw2ecox51.png",
-          "score": "21498"
+          "score": "21505"
      },
      "iqncit": {
           "title": "Never Forget",
@@ -276,7 +276,7 @@
           "time": "2020-09-11 05:34:37",
           "selftext": "",
           "url": "https://i.redd.it/yb0pqi1enhm51.jpg",
-          "score": "21222"
+          "score": "21218"
      },
      "m5j4r8": {
           "title": "It\u2019s Time For Americans To Refuse To Trade With Slaveholders -- Now that we know, beyond a doubt, of China's abhorrent treatment of the Uighurs we must reconsider our relations with the Slave Power rising in the East.",
@@ -285,7 +285,7 @@
           "time": "2021-03-15 08:00:42",
           "selftext": "",
           "url": "https://thefederalist.com/2021/03/15/its-time-for-americans-to-refuse-to-trade-with-slaveholders/",
-          "score": "21121"
+          "score": "21114"
      },
      "xxe5wl": {
           "title": "Biden pardoning all prior federal offenses of simple marijuana possession",
@@ -294,7 +294,7 @@
           "time": "2022-10-06 15:37:45",
           "selftext": "",
           "url": "https://www.foxnews.com/politics/biden-pardoning-all-prior-federal-offenses-simple-marijuana-possession",
-          "score": "20816"
+          "score": "20813"
      },
      "ktussd": {
           "title": "After Being Kicked Off Social Media, Trump Forced To Go Door To Door And Shout 'RIGGED ELECTION!'",
@@ -303,7 +303,7 @@
           "time": "2021-01-09 12:11:57",
           "selftext": "",
           "url": "https://babylonbee.com/news/after-being-kicked-off-social-media-trump-forced-to-go-door-to-door-and-shout-rigged-election",
-          "score": "20605"
+          "score": "20612"
      },
      "jo8sy9": {
           "title": "We need NV",
@@ -312,7 +312,7 @@
           "time": "2020-11-04 19:45:31",
           "selftext": "",
           "url": "https://i.redd.it/bi7dow36jbx51.jpg",
-          "score": "20366"
+          "score": "20365"
      },
      "l4yjn9": {
           "title": "Sen. Cruz reintroduces amendment imposing term limits on members of Congress",
@@ -321,7 +321,7 @@
           "time": "2021-01-25 16:51:18",
           "selftext": "",
           "url": "https://www.cbs7.com/2021/01/25/sen-cruz-reintroduces-amendment-imposing-term-limits-on-members-of-congress/",
-          "score": "20335"
+          "score": "20331"
      },
      "s66on2": {
           "title": "Happy Birthday to this American hero",
@@ -330,7 +330,7 @@
           "time": "2022-01-17 10:32:46",
           "selftext": "",
           "url": "https://i.imgur.com/J7D2yW9.jpg",
-          "score": "19996"
+          "score": "19991"
      },
      "ksmly8": {
           "title": "Capitol rioters could face up to 10 years in prison under Trump monument executive order",
@@ -348,7 +348,7 @@
           "time": "2016-12-17 08:27:38",
           "selftext": "",
           "url": "http://i.imgur.com/L0p4pQA.jpg",
-          "score": "19584"
+          "score": "19581"
      },
      "l0oqpj": {
           "title": "McConnell says Trump provoked Jan. 6 riot",
@@ -357,7 +357,7 @@
           "time": "2021-01-19 12:36:25",
           "selftext": "",
           "url": "http://www.breakingthenews.net/news/details/54371888",
-          "score": "19369"
+          "score": "19377"
      },
      "j106fp": {
           "title": "NY Times: Trump paid $750 in US income taxes in 2016, 2017",
@@ -366,7 +366,7 @@
           "time": "2020-09-27 18:24:03",
           "selftext": "",
           "url": "https://apnews.com/f0e2af5f9f99de9d30dc6b9097121188",
-          "score": "19095"
+          "score": "19096"
      },
      "frxodq": {
           "title": "RESUBMITTED: Behold: reddit after they received $300 million from China's company, Tencent",
@@ -375,7 +375,7 @@
           "time": "2020-03-30 15:42:07",
           "selftext": "",
           "url": "https://i.redd.it/hs8iq6955vp41.jpg",
-          "score": "19003"
+          "score": "18997"
      },
      "ivh84e": {
           "title": "Justice Ruth Bader Ginsburg, Champion Of Gender Equality, Dies At 87",
@@ -384,7 +384,7 @@
           "time": "2020-09-18 19:34:22",
           "selftext": "",
           "url": "https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87",
-          "score": "18521"
+          "score": "18526"
      },
      "ixnlcy": {
           "title": "Bloomberg pays fines for 32,000 felons in Florida so they can vote",
@@ -393,7 +393,7 @@
           "time": "2020-09-22 09:40:53",
           "selftext": "",
           "url": "https://thehill.com/homenews/campaign/517522-bloomberg-pays-fines-for-32000-felons-in-florida-so-they-can-vote",
-          "score": "18447"
+          "score": "18446"
      },
      "kq7ocp": {
           "title": "Biden's inaugural parade is canceled and replaced with a virtual version to avoid drawing large crowds amid the pandemic",
@@ -402,7 +402,7 @@
           "time": "2021-01-04 07:20:12",
           "selftext": "",
           "url": "https://www.dailymail.co.uk/news/article-9109493/Biden-inauguration-feature-virtual-nationwide-parade.html",
-          "score": "18416"
+          "score": "18425"
      },
      "l7g5ei": {
           "title": "Somethings we can agree on",
@@ -411,7 +411,7 @@
           "time": "2021-01-28 21:09:28",
           "selftext": "",
           "url": "https://www.reddit.com/gallery/l7g5ei",
-          "score": "18255"
+          "score": "18250"
      },
      "ytpc1n": {
           "title": "Nevada Sen. Cortez Masto keeps critical seat, defeating GOP challenger Adam Laxalt",
@@ -420,7 +420,7 @@
           "time": "2022-11-12 21:22:49",
           "selftext": "",
           "url": "https://mynews4.com/news/election/nevada-senator-catherine-cortez-masto-keeps-critical-seat-defeating-gop-challenger-adam-laxalt-election-las-veags-reno-election",
-          "score": "18223"
+          "score": "18225"
      },
      "klvu04": {
           "title": "Rep. Ilhan Omar Backs Trump\u2019s Call for \u2018Clean Bill\u2019 with Nothing But \u2018$2,000 Survival Checks\u2019",
@@ -429,7 +429,7 @@
           "time": "2020-12-28 13:23:48",
           "selftext": "",
           "url": "https://www.cnsnews.com/index.php/blog/craig-bannister/rep-ilhan-omar-backs-trumps-call-clean-bill-nothing-2000-survival-checks",
-          "score": "17952"
+          "score": "17949"
      },
      "yr5kjd": {
           "title": "Exit Poll: Generation Z, Millennials Break Big for Democrats (63% vs. 35% for Republicans)",
